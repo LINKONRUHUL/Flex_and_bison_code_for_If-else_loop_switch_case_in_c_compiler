@@ -1,0 +1,27 @@
+j = 2 ;
+switch(j){
+	case 1: 10 * 6 ; break;
+	case 2: 10 *7 ; break;
+	case 3: 5 + 49 ; break;
+	case 4: 40 + 50  ; break;
+        case 5: 100 + 0  ; break;
+        case 6: 45 + 54  ; break;
+	default: 10 + 10 ; break;
+}
+
+i=5;
+
+loop (i)
+
+m = 10 ;
+n = 20 ;
+p = 30 ;
+
+jodi (n > m)
+{ 
+ jodi (n < p)
+   p - n;
+ nahole
+   m * p;
+} 
+

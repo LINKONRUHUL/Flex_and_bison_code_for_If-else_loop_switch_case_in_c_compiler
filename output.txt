@@ -1,0 +1,20 @@
+Value of the variable: 2	
+
+Switch case started
+Student id : 2 Selected and Total number 70 
+Switch case ended
+
+Value of the variable: 5	
+
+Loop Started
+asdf 4
+asdf 3
+asdf 2
+asdf 1
+asdf 0
+Loop ended
+
+Value of the variable: 10	
+Value of the variable: 20	
+Value of the variable: 30	
+value of expression in IF: 10
